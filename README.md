@@ -10,8 +10,7 @@ Passenger Count
 Payment Type
 You can find the dataset here: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-### Stack Diagram:
-![image](https://github.com/user-attachments/assets/7d2a0c7c-325e-44e9-b97a-e494740ff9ce)
+### Stack Diagram: ![image](https://github.com/user-attachments/assets/7d2a0c7c-325e-44e9-b97a-e494740ff9ce)
 
 
 
